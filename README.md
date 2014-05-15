@@ -3,4 +3,4 @@ siteAlcione
 
 site pessoal
 
-Estou para aprender Django 
+Estou ajundo este projeto para aprender Django 
